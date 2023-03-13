@@ -1,0 +1,7 @@
+@mixin title ($s, $w, $l, $c, $t) {
+    font-size: $s;
+    font-weight: $w;
+    line-height: $l;
+    color: $c;
+    text-align: $t;
+}
